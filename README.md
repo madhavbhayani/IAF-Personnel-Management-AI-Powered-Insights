@@ -2,6 +2,37 @@
 
 A professional React frontend for the Indian Air Force Personnel Management System that provides AI-powered insights for leadership potential and attrition risk assessment.
 
+## Screenshots
+
+### 🔐 Login Interface
+![Login Page](../screenshots/login-page.png)
+
+**Key Features:**
+- Professional IAF branding with aircraft logo
+- Secure access form with personnel ID and password fields
+- Blue gradient background representing the sky and aviation
+- Responsive design that works on all devices
+- Demo authentication (any non-empty credentials accepted)
+
+### 📊 Personnel Analysis Dashboard
+![Dashboard](../screenshots/Feature-main.png)
+
+**Key Features:**
+- Interactive parameter sliders with real-time value updates
+- Professional form layout with organized sections
+- All parameters from the original Streamlit version
+- Visual feedback and intuitive controls
+- Ready-for-analysis status indicator
+
+## Visual Design Highlights
+
+- **IAF Blue Theme**: Custom color palette inspired by Indian Air Force branding
+- **Professional Typography**: Clean, readable fonts suitable for military applications
+- **Responsive Layout**: Optimized for desktop, tablet, and mobile devices
+- **Interactive Elements**: Smooth animations and hover effects
+- **Loading States**: Professional loading indicators during API calls
+- **Error Handling**: Clear error messages with actionable guidance
+
 ## Features
 
 ### 🔐 Authentication System
@@ -135,14 +166,32 @@ The React frontend integrates with the Flask backend API:
 
 | Feature | Streamlit | React Implementation |
 |---------|-----------|---------------------|
-| Authentication | ❌ None | ✅ Full login system |
-| Form Interface | Basic sliders | ✅ Professional sliders with labels |
+| Authentication | ❌ None | ✅ Full login system with IAF branding |
+| Form Interface | Basic sliders | ✅ Professional sliders with real-time feedback |
 | Results Display | Simple metrics | ✅ Detailed cards with recommendations |
-| Navigation | Single page | ✅ Multi-tab interface |
-| Responsive Design | Limited | ✅ Full responsive design |
-| Error Handling | Basic | ✅ Comprehensive error handling |
-| Loading States | None | ✅ Loading indicators throughout |
-| Professional Styling | Basic | ✅ IAF-themed professional design |
+| Navigation | Single page | ✅ Multi-tab interface with clean navigation |
+| Responsive Design | Limited | ✅ Full responsive design for all devices |
+| Error Handling | Basic | ✅ Comprehensive error handling with user guidance |
+| Loading States | None | ✅ Loading indicators throughout the application |
+| Professional Styling | Basic | ✅ IAF-themed professional design with animations |
+| User Experience | Functional | ✅ Intuitive, polished interface with visual feedback |
+
+## User Interface Improvements
+
+### From Streamlit to Professional React Interface
+
+**Before (Streamlit):**
+- Basic web interface with standard components
+- Limited customization options
+- No authentication or access control
+- Simple form elements without professional styling
+
+**After (React Implementation):**
+- Fully customized IAF-branded interface
+- Professional authentication system
+- Interactive sliders with visual feedback
+- Comprehensive error handling and loading states
+- Responsive design optimized for military personnel usage
 
 ## File Structure
 
