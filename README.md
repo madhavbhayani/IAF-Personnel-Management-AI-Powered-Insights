@@ -5,7 +5,7 @@ A professional React frontend for the Indian Air Force Personnel Management Syst
 ## Screenshots
 
 ### 🔐 Login Interface
-![Login Page](../screenshots/login-page.png)
+![Login Page](./screenshots/login-page.png)
 
 **Key Features:**
 - Professional IAF branding with aircraft logo
@@ -15,7 +15,7 @@ A professional React frontend for the Indian Air Force Personnel Management Syst
 - Demo authentication (any non-empty credentials accepted)
 
 ### 📊 Personnel Analysis Dashboard
-![Dashboard](../screenshots/Feature-main.png)
+![Dashboard](./screenshots/Feature-main.png)
 
 **Key Features:**
 - Interactive parameter sliders with real-time value updates
