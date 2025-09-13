@@ -5,7 +5,7 @@ A professional React frontend for the Indian Air Force Personnel Management Syst
 ## Screenshots
 
 ### 🔐 Login Interface
-![Login Page](./screenshots/login-page.png)
+![Login Page](./screenshots/Login-page.png)
 
 **Key Features:**
 - Professional IAF branding with aircraft logo
