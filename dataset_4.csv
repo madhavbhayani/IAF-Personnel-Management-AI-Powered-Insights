@@ -1,0 +1,341 @@
+PersonnelID,Age,YearsOfService,Rank,Specialization,PerformanceRating,TrainingCoursesCompleted,MissionSuccessRate,MedicalFitnessScore,PeerReviewScore,CommandersAssessment,AttritionRisk,LeadershipPotential
+IAF3001,45,23,Group Captain,Pilot,1,15,23.66,20,2.3,3.3,high,High
+IAF3002,34,12,Squadron Leader,Pilot,4,8,91.5,99,3.8,4.3,high,High
+IAF3003,33,11,Squadron Leader,Admin,3,7,88.1,92,3.5,3.6,high,Medium
+IAF3004,25,3,Flying Officer,Ground Staff,2,2,81.3,95,3.1,3,High,Low
+IAF3005,38,16,Wing Commander,Pilot,5,11,99,89,4.8,4.9,Low,High
+IAF3006,31,9,Flight Lieutenant,Pilot,4,6,94.5,97,4.3,4.5,Low,High
+IAF3007,26,4,Flying Officer,pilot,3,3,85.2,100,3.6,3.4,Low,Medium
+IAF3008,41,19,Wing Commander,pilot,2,10,79.8,91,2.9,2.8,Low,high
+IAF3009,36,14,Squadron Leader,Pilot,5,9,97.5,96,4.6,4.8,Low,High
+IAF3010,29,7,Flight Lieutenant,Medical,4,6,92.8,98,4.1,4.2,Low,High
+IAF3011,43,21,Group Captain,Pilot,3,13,89.5,90,3.8,3.9,Low,Medium
+IAF3012,24,2,Flying Officer,pilot,2,1,78.9,97,2.8,2.7,High,high
+IAF3013,35,13,Squadron Leader,Pilot,5,8,98.6,93,4.7,4.9,Low,High
+IAF3014,30,8,Flight Lieutenant,Ground Staff,4,5,93.2,95,4.2,4.4,Low,High
+IAF3015,40,18,Wing Commander,Pilot,5,12,96.5,88,4.5,4.7,Low,High
+IAF3016,27,5,Flying Officer,Pilot,3,3,86.8,99,3.7,3.5,Medium,Medium
+IAF3017,34,12,Squadron Leader,pilot,2,6,82.4,94,3,3.1,High,high
+IAF3018,46,24,Group Captain,Pilot,4,16,95.1,86,4.4,4.6,Medium,High
+IAF3019,23,1,Flying Officer,Ground Staff,3,1,88,100,3.4,3.3,Medium,Medium
+IAF3020,39,17,Wing Commander,Medical,5,11,99.3,92,4.9,5,Low,High
+IAF3021,32,10,Squadron Leader,Pilot,2,7,80.1,96,3.1,2.9,Medium,Low
+IAF3022,28,6,Flight Lieutenant,pilot,4,5,94,98,4.3,4.5,Low,High
+IAF3023,37,15,Wing Commander,Pilot,5,10,97.8,91,4.8,4.8,Medium,High
+IAF3024,25,3,Flying Officer,Ground Staff,3,2,87.2,97,3.6,3.5,Medium,Medium
+IAF3025,42,20,Group Captain,Medical,2,13,83.5,89,3.2,3.3,High,Low
+IAF3026,36,14,Squadron Leader,Pilot,4,9,95.8,95,4.5,4.6,Low,High
+IAF3027,29,7,Flight Lieutenant,Pilot,5,6,98.1,99,4.7,4.9,Low,High
+IAF3028,44,22,Wing Commander,Admin,3,14,90.2,87,3.9,4,Low,Medium
+IAF3029,26,4,Flying Officer,Ground Staff,2,2,79.5,96,2.9,2.8,High,Low
+IAF3030,35,13,Squadron Leader,Medical,4,8,93.9,93,4.3,4.4,Low,High
+IAF3031,41,19,Wing Commander,Pilot,5,12,99.2,92,4.9,5,Low,High
+IAF3032,27,5,Flight Lieutenant,Data Analyst,3,4,88.8,98,3.8,3.7,Medium,Medium
+IAF3033,38,16,Squadron Leader,Pilot,2,9,81.7,90,3,3.1,High,Low
+IAF3034,24,2,Flying Officer,Ground Staff,4,2,92.1,100,4.1,4,Low,High
+IAF3035,33,11,Squadron Leader,Pilot,5,7,97.3,94,4.6,4.8,Low,High
+IAF3036,40,18,Wing Commander,Pilot,3,11,87.6,89,3.7,3.6,Medium,Medium
+IAF3037,31,9,Flight Lieutenant,Engineer,2,5,83.1,97,3.2,3,High,Low
+IAF3038,45,23,Group Captain,Admin,5,15,98,85,4.8,4.9,Low,High
+IAF3039,23,1,Flying Officer,Ground Staff,3,1,86.5,99,3.5,3.4,Medium,Medium
+IAF3040,39,17,Wing Commander,Medical,4,10,94.9,91,4.4,4.5,Low,High
+IAF3041,32,10,Squadron Leader,Pilot,5,7,99.1,96,4.9,4.9,Low,High
+IAF3042,28,6,Flight Lieutenant,Engineer,3,4,89.2,98,3.9,3.8,Medium,Medium
+IAF3043,37,15,Wing Commander,Admin,2,11,82.8,92,3.1,3.2,High,Low
+IAF3044,25,3,Flying Officer,Ground Staff,4,3,91.8,97,4,4.1,Low,High
+IAF3045,42,20,Group Captain,Pilot,5,14,97.9,88,4.7,4.8,Low,High
+IAF3046,36,14,Squadron Leader,Pilot,3,8,90.5,95,4,3.9,Low,Medium
+IAF3047,29,7,Flight Lieutenant,Engineer,2,4,84,99,3.3,3.1,High,Low
+IAF3048,44,22,Wing Commander,Pilot,5,13,98.4,87,4.8,4.9,Low,High
+IAF3049,26,4,Flying Officer,Ground Staff,3,2,85.8,96,3.5,3.3,Medium,Medium
+IAF3050,35,13,Squadron Leader,Medical,4,8,96.3,93,4.5,4.6,Low,High
+IAF3051,41,19,Wing Commander,Pilot,2,11,81.1,91,3,2.9,High,Low
+IAF3052,27,5,Flight Lieutenant,Engineer,5,4,97.2,98,4.6,4.7,Low,High
+IAF3053,38,16,Squadron Leader,Admin,4,10,93.6,90,4.3,4.4,Low,High
+IAF3054,24,2,Flying Officer,Ground Staff,3,2,88.2,100,3.7,3.6,Medium,Medium
+IAF3055,33,11,Squadron Leader,Pilot,2,7,82.9,94,3.2,3,High,high
+IAF3056,40,18,Wing Commander,Pilot,5,12,99.5,89,5,5,Low,High
+IAF3057,31,9,Flight Lieutenant,Engineer,4,6,95.2,97,4.4,4.5,Low,High
+IAF3058,45,23,Group Captain,Admin,3,15,89.9,85,3.9,3.8,Medium,Medium
+IAF3059,23,1,Flying Officer,Pilot,2,1,80.4,99,2.9,2.8,High,Low
+IAF3060,39,17,Wing Commander,Medical,5,11,98.8,91,4.8,4.9,Low,High
+IAF3061,32,10,Squadron Leader,Pilot,4,7,94.3,96,4.3,4.4,Low,High
+IAF3062,28,6,Flight Lieutenant,Engineer,3,5,87.8,98,3.7,3.6,Medium,Medium
+IAF3063,37,15,Wing Commander,Admin,5,11,97.1,92,4.6,4.7,Low,High
+IAF3064,25,3,Flying Officer,Ground Staff,2,2,83.3,97,3.1,3.2,High,Low
+IAF3065,42,20,Group Captain,Pilot,4,14,95.5,88,4.5,4.5,Low,High
+IAF3066,36,14,Squadron Leader,Pilot,5,9,98.9,95,4.9,4.9,Low,High
+IAF3067,29,7,Flight Lieutenant,Engineer,4,6,92.7,99,4.2,4.3,Low,High
+IAF3068,44,22,Wing Commander,Admin,2,12,84.8,87,3.4,3.3,High,Low
+IAF3069,26,4,Flying Officer,Pilot,3,3,89.1,96,3.8,3.7,Medium,Medium
+IAF3070,35,13,Squadron Leader,Medical,5,8,97.7,93,4.7,4.8,Low,High
+IAF3071,43,21,Group Captain,Pilot,4,14,94.2,90,4.2,4.3,Low,High
+IAF3072,24,2,Flying Officer,Engineer,2,1,77.5,98,2.7,2.6,High,Low
+IAF3073,33,11,Squadron Leader,Admin,5,8,98.3,94,4.8,4.9,Low,High
+IAF3074,40,18,Wing Commander,Pilot,3,12,91,89,4,4.1,Low,Medium
+IAF3075,31,9,Flight Lieutenant,Medical,4,7,96,97,4.5,4.6,Low,High
+IAF3076,27,5,Flying Officer,Pilot,2,3,82,99,3,2.9,High,Low
+IAF3077,38,16,Squadron Leader,Engineer,5,10,99.4,96,5,5,Low,High
+IAF3078,46,24,Group Captain,Admin,4,16,93.3,86,4.3,4.2,Low,low
+IAF3079,25,3,Flying Officer,Pilot,3,2,86.2,100,3.6,3.5,Medium,Medium
+IAF3080,39,17,Wing Commander,Medical,2,10,80.8,91,2.9,3,High,Low
+IAF3081,32,10,Squadron Leader,Pilot,5,7,98.7,95,4.8,4.9,Low,High
+IAF3082,28,6,Flight Lieutenant,Engineer,4,5,94.8,98,4.4,4.5,Low,High
+IAF3083,37,15,Wing Commander,Admin,3,11,88.5,92,3.8,3.7,Medium,Medium
+IAF3084,26,4,Flying Officer,Pilot,2,2,83.8,97,3.2,3.1,High,Low
+IAF3085,42,20,Group Captain,Medical,5,14,97.4,88,4.7,4.8,Low,High
+IAF3086,36,14,Squadron Leader,Pilot,4,9,93.1,94,4.2,4.3,Low,High
+IAF3087,29,7,Flight Lieutenant,Engineer,3,6,85.5,99,3.5,3.4,Medium,Medium
+IAF3088,44,22,Wing Commander,Admin,5,13,99.6,87,5,5,Low,High
+IAF3089,23,1,Flying Officer,Pilot,2,1,81.8,98,3,2.9,High,Low
+IAF3090,35,13,Squadron Leader,Medical,4,8,95.4,93,4.4,4.5,Low,High
+IAF3091,41,19,Wing Commander,Pilot,5,12,98.1,91,4.7,4.9,Low,High
+IAF3092,27,5,Flight Lieutenant,Engineer,4,4,92.3,98,4.1,4.2,Medium,High
+IAF3093,38,16,Squadron Leader,Admin,2,9,84.4,90,3.3,3.4,High,high
+IAF3094,24,2,Flying Officer,Pilot,3,2,87.7,100,3.7,3.6,Medium,Medium
+IAF3095,33,11,Squadron Leader,Medical,5,7,96.8,94,4.6,4.7,Low,High
+IAF3096,40,18,Wing Commander,Pilot,4,11,94.1,89,4.3,4.4,Low,High
+IAF3097,31,9,Flight Lieutenant,Engineer,2,5,80,97,2.9,2.8,High,Low
+IAF3098,45,23,Group Captain,Admin,5,15,99.8,85,4.9,5,Low,High
+IAF3099,25,3,Flying Officer,Pilot,3,1,88.6,99,3.8,3.7,Medium,Medium
+IAF3100,39,17,Wing Commander,Medical,4,10,95,91,4.4,4.5,Low,High
+IAF3101,35,13,Squadron Leader,Pilot,4,8,94.2,95,4.1,4.3,Low,High
+IAF3102,28,6,Flight Lieutenant,Engineer,3,5,88.9,98,3.7,3.8,Medium,Medium
+IAF3103,42,20,Wing Commander,Admin,5,12,97.8,92,4.8,4.9,Low,High
+IAF3104,25,3,Flying Officer,Ground Staff,2,2,80.5,99,3,3.1,High,Low
+IAF3105,33,11,Squadron Leader,Medical,4,7,91.3,85,3.9,4,Low,low
+IAF3106,38,16,Wing Commander,Pilot,5,10,98.1,96,4.9,4.8,Low,High
+IAF3107,29,7,Flight Lieutenant,Engineer,4,6,93.5,97,4.3,4.4,Low,High
+IAF3108,45,23,Group Captain,Admin,3,15,87.2,89,3.6,3.5,Medium,Medium
+IAF3109,26,4,Flying Officer,Ground Staff,2,1,79.3,94,3.2,2.8,High,Low
+IAF3110,31,9,Squadron Leader,Medical,4,7,94.6,93,4.2,4.5,Low,High
+IAF3111,36,14,Squadron Leader,Pilot,5,9,99.2,94,4.8,4.9,Low,High
+IAF3112,27,5,Flight Lieutenant,Engineer,3,4,89.3,98,3.7,3.4,Medium,Medium
+IAF3113,43,21,Wing Commander,Pilot,2,11,84.1,88,3.3,3.2,High,Low
+IAF3114,24,2,Flying Officer,Ground Staff,4,3,91.5,100,4,4.1,Low,High
+IAF3115,34,12,Squadron Leader,Medical,5,8,96.7,91,4.5,4.7,Medium,High
+IAF3116,39,17,Wing Commander,Pilot,3,11,87.6,90,3.6,3.3,Medium,Medium
+IAF3117,30,8,Flight Lieutenant,Engineer,2,5,79.8,95,2.8,2.6,High,Low
+IAF3118,46,24,Group Captain,Pilot,5,16,99.5,87,4.9,5,Low,High
+IAF3119,23,1,Flying Officer,Ground Staff,3,1,88,99,3.4,3.2,Medium,Medium
+IAF3120,32,10,Squadron Leader,Medical,4,6,95.2,92,4.3,4.6,Low,High
+IAF3121,37,15,Wing Commander,Pilot,5,10,98.1,95,4.7,4.9,Low,High
+IAF3122,28,6,Flight Lieutenant,Engineer,4,5,92.8,97,4.2,4.3,Low,High
+IAF3123,44,22,Wing Commander,Admin,2,13,81.4,86,2.9,2.7,High,Low
+IAF3124,25,3,Flying Officer,Ground Staff,3,2,86.1,98,3.5,3.3,Medium,Medium
+IAF3125,35,13,Squadron Leader,Medical,5,9,97.3,93,4.6,4.8,Low,High
+IAF3126,40,18,Wing Commander,Pilot,4,12,94,91,4.4,4.5,Low,low
+IAF3127,29,7,Flight Lieutenant,Engineer,2,4,80.5,96,2.7,2.5,High,Low
+IAF3128,47,25,Group Captain,Admin,3,17,89.5,85,3.9,3.6,Medium,Medium
+IAF3129,26,4,Flying Officer,Ground Staff,4,3,90.8,99,4,4.2,Low,High
+IAF3130,33,11,Squadron Leader,Medical,5,7,96.1,92,4.5,4.7,Low,High
+IAF3131,38,16,Wing Commander,Pilot,2,9,83.2,89,3.1,3,High,Low
+IAF3132,31,9,Flight Lieutenant,Engineer,5,6,98.3,98,4.8,4.9,Low,High
+IAF3133,41,19,Wing Commander,Admin,4,14,93.3,88,4.3,4.4,Low,High
+IAF3134,27,5,Flying Officer,Ground Staff,3,2,87.2,100,3.6,3.4,Medium,Medium
+IAF3135,36,14,Squadron Leader,Medical,2,8,78.9,90,2.9,2.8,High,Low
+IAF3136,39,17,Wing Commander,Pilot,5,11,99,93,4.9,5,Low,High
+IAF3137,30,8,Flight Lieutenant,Engineer,4,5,91.7,97,4.1,4.2,Low,High
+IAF3138,45,23,Group Captain,Admin,3,15,88.4,86,3.8,3.5,Medium,Medium
+IAF3139,24,2,Flying Officer,Ground Staff,2,1,80.1,99,3,2.9,High,Low
+IAF3140,34,12,Squadron Leader,Medical,5,8,97.9,91,4.7,4.8,Low,High
+IAF3141,37,15,Wing Commander,Pilot,4,10,95.5,92,4.4,4.6,Low,High
+IAF3142,28,6,Flight Lieutenant,Engineer,3,4,88.8,96,3.7,3.5,Medium,Medium
+IAF3143,42,20,Wing Commander,Admin,5,13,99.6,89,4.8,4.9,Low,High
+IAF3144,25,3,Flying Officer,Ground Staff,2,2,81.3,98,3.2,3,High,Low
+IAF3145,35,13,Squadron Leader,Medical,4,7,94.2,94,4.3,4.5,Low,High
+IAF3146,40,18,Wing Commander,Pilot,5,12,98.4,90,4.7,4.8,Low,High
+IAF3147,29,7,Flight Lieutenant,Engineer,4,6,93,97,4.2,4.3,Low,High
+IAF3148,46,24,Group Captain,Admin,2,16,84.5,85,3.1,2.9,High,Low
+IAF3149,26,4,Flying Officer,Ground Staff,3,3,89.9,99,3.8,3.6,Medium,Medium
+IAF3150,33,11,Squadron Leader,Medical,5,8,96.8,92,4.6,4.7,Low,High
+IAF3151,41,19,Wing Commander,Pilot,5,13,99.3,91,4.8,4.9,Low,High
+IAF3152,24,2,Flying Officer,Engineer,3,2,86.4,99,3.6,3.3,Medium,Medium
+IAF3153,32,10,Flight Lieutenant,Admin,2,6,77.7,92,2.8,2.7,Medium,Low
+IAF3154,39,17,Wing Commander,Ground Staff,4,11,94.7,94,4.4,4.5,Low,High
+IAF3155,30,8,Squadron Leader,Medical,5,7,98,96,4.7,4.8,Low,High
+IAF3156,44,22,Group Captain,Pilot,3,15,88.2,88,3.7,3.6,Medium,Medium
+IAF3157,26,4,Flying Officer,Engineer,4,3,92.3,98,4.1,4.2,Low,High
+IAF3158,37,15,Wing Commander,Admin,2,10,83.1,90,3,2.9,High,Low
+IAF3159,29,7,Flight Lieutenant,Ground Staff,5,6,97.2,97,4.6,4.7,Low,High
+IAF3160,35,13,Squadron Leader,Medical,3,8,89.8,95,3.8,3.5,Medium,Medium
+IAF3161,42,20,Wing Commander,Pilot,4,14,95.9,93,4.5,4.6,Low,High
+IAF3162,27,5,Flying Officer,Engineer,2,3,80.9,99,2.9,2.8,High,Low
+IAF3163,34,12,Squadron Leader,Admin,5,9,98.8,91,4.8,4.9,Low,High
+IAF3164,40,18,Wing Commander,Ground Staff,4,12,93.4,92,4.3,4.4,Low,High
+IAF3165,31,9,Flight Lieutenant,Medical,3,7,88.6,96,3.7,3.4,Medium,Medium
+IAF3166,46,24,Group Captain,Pilot,5,16,99.8,87,5,5,Low,High
+IAF3167,25,3,Flying Officer,Engineer,2,2,79.5,100,2.8,2.6,High,Low
+IAF3168,36,14,Squadron Leader,Admin,4,9,95.1,94,4.4,4.5,Low,High
+IAF3169,28,6,Flight Lieutenant,Ground Staff,5,5,96.5,98,4.5,4.7,Low,High
+IAF3170,43,21,Wing Commander,Medical,3,13,86.3,89,3.6,3.3,Medium,Medium
+IAF3171,33,11,Squadron Leader,Pilot,2,8,82.4,95,3.1,3,High,Low
+IAF3172,38,16,Wing Commander,Engineer,5,11,99.1,96,4.9,4.9,Low,High
+IAF3173,23,1,Flying Officer,Admin,4,1,90.4,99,4,4.1,Medium,High
+IAF3174,41,19,Group Captain,Ground Staff,3,14,87.9,88,3.8,3.5,Medium,Medium
+IAF3175,32,10,Squadron Leader,Medical,2,7,78.3,92,2.9,2.8,High,Low
+IAF3176,39,17,Wing Commander,Pilot,5,12,98.7,94,4.8,4.8,Low,High
+IAF3177,30,8,Flight Lieutenant,Engineer,4,6,94.4,97,4.3,4.4,Low,High
+IAF3178,45,23,Group Captain,Admin,3,15,89.2,86,3.7,3.6,Medium,Medium
+IAF3179,26,4,Flying Officer,Ground Staff,2,2,81.7,98,3,2.9,High,Low
+IAF3180,37,15,Wing Commander,Medical,5,11,97.5,90,4.6,4.7,Low,High
+IAF3181,29,7,Flight Lieutenant,Pilot,4,5,93.8,96,4.2,4.3,Low,High
+IAF3182,35,13,Squadron Leader,Engineer,3,8,88.1,95,3.6,3.4,Medium,Medium
+IAF3183,42,20,Wing Commander,Admin,5,14,99.4,92,4.9,5,Low,High
+IAF3184,27,5,Flying Officer,Ground Staff,2,3,82.8,99,3.1,3,High,Low
+IAF3185,34,12,Squadron Leader,Medical,4,9,95.6,91,4.4,4.6,Low,High
+IAF3186,40,18,Wing Commander,Pilot,5,12,98.2,93,4.8,4.9,Low,High
+IAF3187,31,9,Flight Lieutenant,Engineer,4,7,92.9,97,4.1,4.2,Low,High
+IAF3188,46,24,Group Captain,Admin,2,16,85,87,3.2,3.1,High,Low
+IAF3189,25,3,Flying Officer,Ground Staff,3,2,90.5,100,3.9,3.7,Medium,Medium
+IAF3190,36,14,Squadron Leader,Medical,5,9,96.9,94,4.7,4.8,Low,High
+IAF3191,28,6,Flight Lieutenant,Pilot,5,6,97.9,98,4.6,4.7,Low,High
+IAF3192,43,21,Wing Commander,Engineer,3,13,87.3,89,3.6,3.4,Medium,Medium
+IAF3193,33,11,Squadron Leader,Admin,2,8,83.8,95,3.1,3,High,Low
+IAF3194,38,16,Wing Commander,Ground Staff,5,11,99.5,96,4.9,5,Low,High
+IAF3195,23,1,Flying Officer,Medical,4,1,91.8,99,4.1,4.2,Low,High
+IAF3196,41,19,Group Captain,Pilot,3,14,88.7,88,3.8,3.5,Medium,Medium
+IAF3197,32,10,Squadron Leader,Engineer,2,7,79.1,92,2.8,2.7,High,Low
+IAF3198,39,17,Wing Commander,Admin,5,12,98.5,94,4.8,4.9,Low,High
+IAF3199,30,8,Flight Lieutenant,Ground Staff,4,6,94.9,97,4.4,4.5,Low,High
+IAF3200,45,23,Group Captain,Medical,3,15,89.6,86,3.7,3.6,Medium,Medium
+IAF3201,36,14,Squadron Leader,Pilot,5,9,98.2,95,4.6,4.8,Low,High
+IAF3202,27,5,Flight Lieutenant,Engineer,4,5,92.5,98,4.1,4.3,Low,High
+IAF3203,43,21,Wing Commander,Admin,2,12,82.8,87,3,2.8,High,Low
+IAF3204,24,2,Flying Officer,Ground Staff,3,2,86.7,100,3.5,3.3,Medium,Medium
+IAF3205,34,12,Squadron Leader,Medical,5,8,97,91,4.5,4.7,Low,High
+IAF3206,39,17,Wing Commander,Pilot,4,11,94.8,90,4.4,4.5,Low,High
+IAF3207,30,8,Flight Lieutenant,Engineer,2,5,80.2,95,2.8,2.6,High,Low
+IAF3208,46,24,Group Captain,Admin,5,16,99.4,86,4.9,5,Low,High
+IAF3209,23,1,Flying Officer,Ground Staff,3,1,88.5,99,3.4,3.2,Medium,Medium
+IAF3210,32,10,Squadron Leader,Medical,4,6,95.9,92,4.3,4.6,Low,High
+IAF3211,37,15,Wing Commander,Pilot,5,10,98.6,94,4.7,4.9,Medium,High
+IAF3212,28,6,Flight Lieutenant,Engineer,4,5,93.1,97,4.2,4.4,Low,High
+IAF3213,44,22,Wing Commander,Admin,2,13,81.9,85,2.9,2.7,High,Low
+IAF3214,25,3,Flying Officer,Ground Staff,3,2,87.4,98,3.6,3.4,Medium,Medium
+IAF3215,35,13,Squadron Leader,Medical,5,9,97.6,93,4.6,4.8,Low,High
+IAF3216,40,18,Wing Commander,Pilot,4,12,94.3,91,4.4,4.5,Low,High
+IAF3217,29,7,Flight Lieutenant,Engineer,2,4,80.8,96,2.7,2.5,High,Low
+IAF3218,47,25,Group Captain,Admin,3,17,90,84,3.9,3.6,Medium,low
+IAF3219,26,4,Flying Officer,Ground Staff,4,3,91.2,99,4,4.2,Low,High
+IAF3220,33,11,Squadron Leader,Medical,5,7,96.4,92,4.5,4.7,Low,High
+IAF3221,38,16,Wing Commander,Pilot,2,9,83.7,89,3.1,3,High,Low
+IAF3222,31,9,Flight Lieutenant,Engineer,5,6,98.7,98,4.8,4.9,Low,High
+IAF3223,41,19,Wing Commander,Admin,4,14,93.6,88,4.3,4.4,Low,High
+IAF3224,27,5,Flying Officer,Ground Staff,3,2,87.8,100,3.6,3.4,Medium,Medium
+IAF3225,36,14,Squadron Leader,Medical,2,8,79.4,90,2.9,2.8,High,Low
+IAF3226,39,17,Wing Commander,Pilot,5,11,99.1,93,4.9,5,Low,High
+IAF3227,30,8,Flight Lieutenant,Engineer,4,5,92,97,4.1,4.2,Low,High
+IAF3228,45,23,Group Captain,Admin,3,15,88.9,86,3.8,3.5,Medium,Medium
+IAF3229,24,2,Flying Officer,Ground Staff,2,1,80.6,99,3,2.9,High,Low
+IAF3230,34,12,Squadron Leader,Medical,5,8,98,91,4.7,4.8,Low,High
+IAF3231,37,15,Wing Commander,Pilot,4,10,95.8,92,4.4,4.6,Low,High
+IAF3232,28,6,Flight Lieutenant,Engineer,3,4,89.1,96,3.7,3.5,Medium,Medium
+IAF3233,42,20,Wing Commander,Admin,5,13,99.7,89,4.8,4.9,Low,High
+IAF3234,25,3,Flying Officer,Ground Staff,2,2,81.6,98,3.2,3,High,Low
+IAF3235,35,13,Squadron Leader,Medical,4,7,94.5,94,4.3,4.5,Low,High
+IAF3236,40,18,Wing Commander,Pilot,5,12,98.8,90,4.7,4.8,Low,High
+IAF3237,29,7,Flight Lieutenant,Engineer,4,6,93.4,97,4.2,4.3,Low,High
+IAF3238,46,24,Group Captain,Admin,2,16,84.9,85,3.1,2.9,High,Low
+IAF3239,26,4,Flying Officer,Ground Staff,3,3,90.2,99,3.8,3.6,Medium,Medium
+IAF3240,33,11,Squadron Leader,Medical,5,8,97.1,92,4.6,4.7,Low,High
+IAF3241,38,16,Wing Commander,Pilot,5,10,98.3,95,4.7,4.9,Low,High
+IAF3242,28,6,Flight Lieutenant,Engineer,4,5,92.6,97,4.2,4.4,Low,High
+IAF3243,44,22,Wing Commander,Admin,2,13,82.2,86,2.9,2.7,High,Low
+IAF3244,25,3,Flying Officer,Ground Staff,3,2,87,98,3.5,3.3,Medium,Medium
+IAF3245,35,13,Squadron Leader,Medical,5,9,97.4,93,4.6,4.8,Low,High
+IAF3246,40,18,Wing Commander,Pilot,4,12,94.6,91,4.4,4.5,Low,High
+IAF3247,29,7,Flight Lieutenant,Engineer,2,4,81,96,2.7,2.5,High,Low
+IAF3248,47,25,Group Captain,Admin,3,17,89.8,85,3.9,3.6,Medium,Medium
+IAF3249,26,4,Flying Officer,Ground Staff,4,3,91,99,4,4.2,Low,High
+IAF3250,33,11,Squadron Leader,Medical,5,7,96.2,92,4.5,4.7,Low,High
+IAF3251,41,19,Wing Commander,Pilot,5,13,99.3,91,4.8,4.9,Low,High
+IAF3252,24,2,Flying Officer,Engineer,3,2,86.4,99,3.6,3.3,Medium,Medium
+IAF3253,32,10,Flight Lieutenant,Admin,2,6,77.7,92,2.8,2.7,High,Low
+IAF3254,39,17,Wing Commander,Ground Staff,4,11,94.7,94,4.4,4.5,Low,High
+IAF3255,30,8,Squadron Leader,Medical,5,7,98,96,4.7,4.8,Low,High
+IAF3256,44,22,Group Captain,Pilot,3,15,88.2,88,3.7,3.6,Medium,Medium
+IAF3257,26,4,Flying Officer,admin,4,3,92.3,98,4.1,4.2,Low,High
+IAF3258,37,15,Wing Commander,Admin,2,10,83.1,90,3,2.9,High,Low
+IAF3259,29,7,Flight Lieutenant,Ground Staff,5,6,97.2,97,4.6,4.7,Low,High
+IAF3260,35,13,Squadron Leader,Medical,3,8,89.8,95,3.8,3.5,Medium,Medium
+IAF3261,42,20,Wing Commander,Pilot,4,14,95.9,93,4.5,4.6,Low,High
+IAF3262,27,5,Flying Officer,Engineer,2,3,80.9,99,2.9,2.8,High,Low
+IAF3263,34,12,Squadron Leader,Admin,5,9,98.8,91,4.8,4.9,Low,low
+IAF3264,40,18,Wing Commander,Ground Staff,4,12,93.4,92,4.3,4.4,Low,High
+IAF3265,31,9,Flight Lieutenant,Medical,3,7,88.6,96,3.7,3.4,Medium,Medium
+IAF3266,46,24,Group Captain,Pilot,5,16,99.8,87,5,5,Low,High
+IAF3267,25,3,Flying Officer,Engineer,2,2,79.5,100,2.8,2.6,High,Low
+IAF3268,36,14,Squadron Leader,Admin,4,9,95.1,94,4.4,4.5,Low,High
+IAF3269,28,6,Flight Lieutenant,Ground Staff,5,5,96.5,98,4.5,4.7,Low,High
+IAF3270,43,21,Wing Commander,Medical,3,13,86.3,89,3.6,3.3,Medium,Medium
+IAF3271,33,11,Squadron Leader,Pilot,2,8,82.4,95,3.1,3,High,Low
+IAF3272,38,16,Wing Commander,Engineer,5,11,99.1,96,4.9,4.9,Low,High
+IAF3273,23,1,Flying Officer,Admin,4,1,90.4,99,4,4.1,Medium,High
+IAF3274,41,19,Group Captain,Ground Staff,3,14,87.9,88,3.8,3.5,Medium,Medium
+IAF3275,32,10,Squadron Leader,Medical,2,7,78.3,92,2.9,2.8,High,Low
+IAF3276,39,17,Wing Commander,Pilot,5,12,98.7,94,4.8,4.8,Low,High
+IAF3277,30,8,Flight Lieutenant,Engineer,4,6,94.4,97,4.3,4.4,Low,High
+IAF3278,45,23,Group Captain,Admin,3,15,89.2,86,3.7,3.6,Medium,Medium
+IAF3279,26,4,Flying Officer,Ground Staff,2,2,81.7,98,3,2.9,High,Low
+IAF3280,37,15,Wing Commander,Medical,5,11,97.5,90,4.6,4.7,Low,High
+IAF3281,29,7,Flight Lieutenant,Pilot,4,5,93.8,96,4.2,4.3,Low,High
+IAF3282,35,13,Squadron Leader,Engineer,3,8,88.1,95,3.6,3.4,Medium,Medium
+IAF3283,42,20,Wing Commander,Admin,5,14,99.4,92,4.9,5,Low,High
+IAF3284,27,5,Flying Officer,Ground Staff,2,3,82.8,99,3.1,3,High,Low
+IAF3285,34,12,Squadron Leader,Medical,4,9,95.6,91,4.4,4.6,Low,High
+IAF3286,40,18,Wing Commander,Pilot,5,12,98.2,93,4.8,4.9,Low,High
+IAF3287,31,9,Flight Lieutenant,Engineer,4,7,92.9,97,4.1,4.2,Low,High
+IAF3288,46,24,Group Captain,Admin,2,16,85,87,3.2,3.1,High,Low
+IAF3289,25,3,Flying Officer,Ground Staff,3,2,90.5,100,3.9,3.7,Medium,Medium
+IAF3290,36,14,Squadron Leader,Medical,5,9,96.9,94,4.7,4.8,Low,High
+IAF3291,28,6,Flight Lieutenant,Pilot,5,6,97.9,98,4.6,4.7,Low,High
+IAF3292,43,21,Wing Commander,Engineer,3,13,87.3,89,3.6,3.4,Medium,Medium
+IAF3293,33,11,Squadron Leader,Admin,2,8,83.8,95,3.1,3,High,Low
+IAF3294,38,16,Wing Commander,Ground Staff,5,11,99.5,96,4.9,5,Low,High
+IAF3295,23,1,Flying Officer,Medical,4,1,91.8,99,4.1,4.2,Low,High
+IAF3296,41,19,Group Captain,Pilot,3,14,88.7,88,3.8,3.5,Medium,Medium
+IAF3297,32,10,Squadron Leader,Engineer,2,7,79.1,92,2.8,2.7,High,Low
+IAF3298,39,17,Wing Commander,Admin,5,12,98.5,94,4.8,4.9,Low,High
+IAF3299,30,8,Flight Lieutenant,Ground Staff,4,6,94.9,97,4.4,4.5,Low,High
+IAF3300,45,23,Group Captain,Medical,3,15,89.6,86,3.7,3.6,Medium,Medium
+IAF3301,35,13,Squadron Leader,Pilot,5,8,98.5,95,4.5,4.8,Low,low
+IAF3302,28,6,Flight Lieutenant,Engineer,4,5,92.1,98,4.1,4.2,Low,High
+IAF3303,42,20,Wing Commander,Admin,5,12,99.2,92,4.8,4.9,Medium,High
+IAF3304,25,3,Flying Officer,Ground Staff,3,2,85.3,99,3.5,3.1,Medium,Medium
+IAF3305,33,11,Squadron Leader,Medical,2,4,75.4,85,2.9,2.5,High,Low
+IAF3306,38,16,Wing Commander,Pilot,5,10,97.8,96,4.7,4.8,Low,High
+IAF3307,29,7,Flight Lieutenant,Engineer,4,6,93.5,97,4.3,4.4,Low,High
+IAF3308,45,23,Group Captain,Admin,3,15,88.9,89,3.8,3.5,Medium,Medium
+IAF3309,26,4,Flying Officer,Ground Staff,2,1,78.2,94,3.1,2.8,High,Low
+IAF3310,31,9,Squadron Leader,Medical,4,7,94.6,93,4.2,4.5,Low,High
+IAF3311,36,14,Squadron Leader,Pilot,5,9,98.9,94,4.6,4.9,Low,High
+IAF3312,27,5,Flight Lieutenant,Engineer,3,4,89.3,98,3.7,3.4,Medium,Medium
+IAF3313,43,21,Wing Commander,Admin,2,11,82.1,88,3,2.9,High,Low
+IAF3314,24,2,Flying Officer,Ground Staff,4,3,91.5,100,4,4.1,Low,High
+IAF3315,34,12,Squadron Leader,Medical,5,8,96.7,91,4.5,4.7,Low,High
+IAF3316,39,17,Wing Commander,Pilot,3,11,87.6,90,3.6,3.3,Medium,Medium
+IAF3317,30,8,Flight Lieutenant,Engineer,2,5,79.8,95,2.8,2.6,High,Low
+IAF3318,46,24,Group Captain,Ground Staff,5,16,99.5,87,4.9,5,Low,High
+IAF3319,23,1,Flying Officer,Ground Staff,3,1,88,99,3.4,3.2,Medium,Medium
+IAF3320,32,10,Squadron Leader,Medical,4,6,95.2,92,4.3,4.6,Low,High
+IAF3321,37,15,Wing Commander,Pilot,5,10,98.1,95,4.7,4.9,Low,High
+IAF3322,28,6,Flight Lieutenant,Engineer,4,5,92.8,97,4.2,4.3,Low,High
+IAF3323,44,22,Wing Commander,Admin,2,13,81.4,86,2.9,2.7,High,Low
+IAF3324,25,3,Flying Officer,Ground Staff,3,2,86.1,98,3.5,3.3,Medium,Medium
+IAF3325,35,13,Squadron Leader,Medical,5,9,97.3,93,4.6,4.8,Low,High
+IAF3326,40,18,Wing Commander,Pilot,4,12,94,91,4.4,4.5,Low,High
+IAF3327,29,7,Flight Lieutenant,Engineer,2,4,80.5,96,2.7,2.5,High,Low
+IAF3328,47,25,Group Captain,Admin,3,17,89.5,85,3.9,3.6,Medium,Medium
+IAF3329,26,4,Flying Officer,Ground Staff,4,3,90.8,99,4,4.2,Low,High
+IAF3330,33,11,Squadron Leader,Medical,5,7,96.1,92,4.5,4.7,Low,High
+IAF3331,38,16,Wing Commander,Pilot,2,9,83.2,89,3.1,3,High,Low
+IAF3332,31,9,Flight Lieutenant,Engineer,5,6,98.3,98,4.8,4.9,Low,High
+IAF3333,41,19,Wing Commander,Admin,4,14,93.3,88,4.3,4.4,Low,High
+IAF3334,27,5,Flying Officer,Ground Staff,3,2,87.2,100,3.6,3.4,Medium,Medium
+IAF3335,36,14,Squadron Leader,Medical,2,8,78.9,90,2.9,2.8,High,high
+IAF3336,39,17,Wing Commander,Pilot,5,11,99,93,4.9,5,Low,High
+IAF3337,30,8,Flight Lieutenant,Engineer,4,5,91.7,97,4.1,4.2,Low,High
+IAF3338,45,23,Group Captain,Admin,3,15,88.4,86,3.8,3.5,Medium,Medium
+IAF3339,24,2,Flying Officer,Ground Staff,2,1,80.1,99,3,2.9,High,Low
+IAF3340,34,12,Squadron Leader,Medical,5,8,97.9,91,4.7,4.8,Low,High
